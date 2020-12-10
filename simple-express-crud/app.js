@@ -1,6 +1,7 @@
 
 /*
-Simple express CRUD app example
+Proyecto_Final CRUD app
+Jose Manuel Zazueta Grijalva
 */
 
 const express = require('express')
